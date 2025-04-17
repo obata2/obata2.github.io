@@ -1,0 +1,11 @@
+.hero {
+  background-image: linear-gradient(to right, #007bff, #00c6ff);
+}
+
+section h2 {
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
